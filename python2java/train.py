@@ -37,8 +37,11 @@ def getFirstContent(dataUrl, modelUrl, modelName):
     mnb_pipeline = PMMLPipeline([("classifier", LogisticRegression())])
 
     mnb_pipeline.fit(X_train_tfidf, training_data.target)
-
+    
+    //保存为pkl格式
     joblib.dump(mnb_pipeline, modelUrl + modelName)
+    //保存为pmml格式
+    sklearn2pmml(mnb_pipeline, modelUrl + modelName, with_repr = True)
 
     if (os.path.exists(modelUrl + modelName)):
 
