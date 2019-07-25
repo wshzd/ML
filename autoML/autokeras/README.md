@@ -2,7 +2,8 @@ The text aim to accomplish the autoML image classification demo through the auto
 # Prerequisites
 
 # Install
-Install autokeras on the windows system
+## Windows
+
 1.download from https://github.com/keras-team/autokeras   
 2.python setup.py install
 # Usage
