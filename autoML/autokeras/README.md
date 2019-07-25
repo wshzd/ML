@@ -1,7 +1,11 @@
-# Introduction
-the text aim to accomplish the autoML image classification demo through the autokeras platform.
-# 
-# How to use
+The text aim to accomplish the autoML image classification demo through the autokeras platform.
+# Prerequisites
+
+# Install
+Install autokeras on the windows system
+1.download from https://github.com/keras-team/autokeras   
+2.python setup.py install
+# Usage
 ## how to get data
 you can get the whole train_test data from the baiduwangpan link 
 https://pan.baidu.com/s/13s4OBlDUqsat79dKl-z8Pg        extract code：mw2t 
