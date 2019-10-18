@@ -8,7 +8,10 @@ ENAS的两个版本实现
 TensorFlow版本：https://github.com/melodyguan/enas
 PyTorch 版本：https://github.com/carpedm20/ENAS-pytorch
 
+autoML技术现状与展望201807
+https://www.cnblogs.com/marsggbo/p/9309520.html
 
-
+autokeras官网
+https://autokeras.com
 
 
