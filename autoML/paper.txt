@@ -14,4 +14,5 @@ https://www.cnblogs.com/marsggbo/p/9309520.html
 autokeras官网
 https://autokeras.com
 
-
+autokeras相关论文
+https://www.cnblogs.com/marsggbo/p/9308518.html
