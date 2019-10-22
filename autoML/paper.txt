@@ -16,3 +16,6 @@ https://autokeras.com
 
 autokeras相关论文
 https://www.cnblogs.com/marsggbo/p/9308518.html
+
+autokeras的cifar案例
+https://www.jianshu.com/p/6467c8cf7c5f
