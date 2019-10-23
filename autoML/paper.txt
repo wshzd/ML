@@ -19,3 +19,6 @@ https://www.cnblogs.com/marsggbo/p/9308518.html
 
 autokeras的cifar案例
 https://www.jianshu.com/p/6467c8cf7c5f
+
+autokeras原理介绍
+https://zhuanlan.zhihu.com/p/85933783
