@@ -1,6 +1,9 @@
 autoML综述
 https://arxiv.org/pdf/1908.00709.pdf
 
+autoML相关论文
+https://github.com/hibayesian/awesome-automl-papers
+
 autokeras介绍
 https://www.simonwenkel.com/2018/08/29/introduction-to-autokeras.html
 
