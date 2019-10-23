@@ -25,3 +25,6 @@ https://www.jianshu.com/p/6467c8cf7c5f
 
 autokeras原理介绍
 https://zhuanlan.zhihu.com/p/85933783
+
+autokeras预训练模型
+https://github.com/datamllab/autokeras-pretrained
