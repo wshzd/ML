@@ -5,4 +5,9 @@ https://github.com/microsoft/nni/tree/master/examples/trials
 服务器运行代码，在Windows上查看结果，可以重定向
 https://blog.csdn.net/weixin_43653494/article/details/101039198
 
+自定义tuner
+https://www.zhihu.com/topic/20223898/hot
+
+
+
 
