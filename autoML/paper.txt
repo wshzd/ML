@@ -28,3 +28,10 @@ https://zhuanlan.zhihu.com/p/85933783
 
 autokeras预训练模型
 https://github.com/datamllab/autokeras-pretrained
+
+《Neural Architecture Search With Reinforcement Learning》论文的解读
+https://www.cnblogs.com/marsggbo/p/9347678.html
+
+
+
+
