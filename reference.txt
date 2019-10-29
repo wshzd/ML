@@ -7,6 +7,6 @@ http://www.huaxiaozhuan.com/
 西瓜书-深度之眼
 https://github.com/Relph1119/MachineLearning-WatermelonBook
 
-
-
+机器学习优化
+https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/
 
