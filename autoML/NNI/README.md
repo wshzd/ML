@@ -1,4 +1,5 @@
-##下面是使用linux训练模型，在windows的webui上展示训练结果的步骤
+#下面是使用linux训练模型，在windows的webui上展示训练结果的步骤
+
 如果用的是Linux远程GPU服务器，本地打不开网页，怎么办？别慌，可以重定向。在本地命令行输入
 ssh -p <remote_port> -L 8888:127.0.0.1:8888 <username>@<remote_ip>，
 remote_port是服务器端口号，
