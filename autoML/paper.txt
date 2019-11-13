@@ -36,6 +36,9 @@ autoML知识汇总*****
 https://github.com/hibayesian/awesome-automl-papers
 https://zhuanlan.zhihu.com/p/66354699
 
+贝叶斯优化(Bayesian Optimization)深入理解
+https://www.cnblogs.com/marsggbo/p/9866764.html
+
 
 
 
