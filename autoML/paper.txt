@@ -42,6 +42,6 @@ https://www.cnblogs.com/marsggbo/p/9866764.html
 贝叶斯优化 Bayesian Optimization（PI、EI、UCB）
 https://blog.csdn.net/qq_40597317/article/details/80888837
 
-
-
+通俗易懂的贝叶斯优化
+https://blog.csdn.net/snail_ren/article/details/79005069
 
