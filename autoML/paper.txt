@@ -32,6 +32,10 @@ https://github.com/datamllab/autokeras-pretrained
 《Neural Architecture Search With Reinforcement Learning》论文的解读
 https://www.cnblogs.com/marsggbo/p/9347678.html
 
+autoML知识汇总*****
+https://github.com/hibayesian/awesome-automl-papers
+https://zhuanlan.zhihu.com/p/66354699
+
 
 
 
