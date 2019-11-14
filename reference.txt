@@ -10,3 +10,6 @@ https://github.com/Relph1119/MachineLearning-WatermelonBook
 机器学习优化
 https://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/
 
+Bayesian deep learning upon tensorflow
+https://github.com/thu-ml/zhusuan
+
