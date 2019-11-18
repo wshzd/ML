@@ -48,6 +48,9 @@ https://blog.csdn.net/snail_ren/article/details/79005069
 autoML涉及到的论文及相关资料
 https://github.com/windmaple/awesome-AutoML
 
+chalearn官网
+http://automl.chalearn.org/
+
 
 
 
