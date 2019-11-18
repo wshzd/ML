@@ -1,0 +1,331 @@
+AutoML介绍
+
+    AutoML是使用机器学习方法和过程来自动化机器学习系统并使其更容易访问的相关的工具和技术。它存在了几十年，所以不是一个全新的想法。
+
+ 
+
+    Google Brain和许多其他公司最近的工作重点是AutoML，一些公司已经将这项技术商业化。因此，它已经成为AutoML的主要测试领域之一。
+
+ 
+
+ AutoML技术有很多种，包括:
+
+        神经网络架构搜索
+
+        超参数优化
+
+        优化器搜索
+
+        数据扩充搜索
+
+        学习学习/元学习
+
+        以及更多
+
+ 
+
+    资源整理自网络，原文地址：https://github.com/windmaple/awesome-AutoML
+
+ 
+
+经典论文
+
+ 
+
+AutoML调研
+
+    A Survey on Neural Architecture Search (Wistuba et al. 2019)
+
+    Neural Architecture Search: A Survey (Elsken et al. 2019)
+
+    Taking Human out of Learning Applications: A Survey on Automated Machine Learning (Yao et al. 2018)
+
+ 
+
+神经架构搜索
+
+    PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search (Xu et al. 2019) - code
+
+    Single Path One-Shot Neural Architecture Search with Uniform Sampling (Guo et al. 2019)
+
+    AutoGAN: Neural Architecture Search for Generative Adversarial Networks (Gong et al. 2019)
+
+    MixConv: Mixed Depthwise Convolutional Kernels (Tan et al. 2019)
+
+    MoGA: Searching Beyond MobileNetV3 (Chu et al. 2019) - code
+
+    Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation (Liu et al. 2019)
+
+    DetNAS: Backbone Search for Object Detection (Chen et al. 2019)
+
+    Dynamic Distribution Pruning for Efficient Network Architecture Search (Zheng et al. 2019)
+
+    FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search (Chu et al. 2019)
+
+    SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers (Fedorov et al. 2019)
+
+    EENA: Efficient Evolution of Neural Architecture (Zhu et al. 2019)
+
+    The Evolved Transformer (So et al. 2019)
+
+    Single Path One-Shot Neural Architecture Search with Uniform Sampling (Guo et al. 2019)
+
+    InstaNAS: Instance-aware Neural Architecture Search (Cheng et al. 2019)
+
+    ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware (Cai et al. 2019)
+
+    NAS-Bench-101: Towards Reproducible Neural Architecture Search (Ying et al. 2019)
+
+    Evolutionary Neural AutoML for Deep Learning (Liang et al. 2019)
+
+    Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search (Chu et al. 2019)
+
+    The Evolved Transformer (So et al. 2019)
+
+    SNAS: Stochastic Neural Architecture Search (Xie et al. 2019)
+
+    NeuNetS: An Automated Synthesis Engine for Neural Network Design (Sood et al. 2019)
+
+    EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search (Fang et al. 2019)
+
+    Understanding and Simplifying One-Shot Architecture Search (Bender et al. 2018)
+
+    IRLAS: Inverse Reinforcement Learning for Architecture Search (Guo et al. 2018)
+
+    Neural Architecture Search with Bayesian Optimisation and Optimal Transport (Kandasamy et al. 2018)
+
+    Path-Level Network Transformation for Efficient Architecture Search (Cai et al. 2018)
+
+    BlockQNN: Efficient Block-wise Neural Network Architecture Generation (Zhong et al. 2018)
+
+    Stochastic Adaptive Neural Architecture Search for Keyword Spotting (Véniat et al. 2018)
+
+    Task-Driven Convolutional Recurrent Models of the Visual System (Nayebi et al. 2018)
+
+    Neural Architecture Optimization (Luo et al. 2018)
+
+    MnasNet: Platform-Aware Neural Architecture Search for Mobile (Tan et al. 2018)
+
+    Neural Architecture Search: A Survey (Elsken et al. 2018)
+
+    MONAS: Multi-Objective Neural Architecture Search using Reinforcement Learning (Hsu et al. 2018)
+
+    NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications (Yang et al. 2018)
+
+    MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks (Gordon et al. 2018)
+
+    DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures (Dong et al. 2018)
+
+    Searching Toward Pareto-Optimal Device-Aware Neural Architectures (Cheng et al. 2018)
+
+    Differentiable Architecture Search (Liu et al. 2018)
+
+    Regularized Evolution for Image Classifier Architecture Search (Real et al. 2018)
+
+    Efficient Architecture Search by Network Transformation (Cai et al. 2017)
+
+    Large-Scale Evolution of Image Classifiers (Real et al. 2017)
+
+    Progressive Neural Architecture Search (Liu et al. 2017)
+
+    AdaNet: Adaptive Structural Learning of Artificial Neural Networks (Cortes et al. 2017)
+
+    Learning Transferable Architectures for Scalable Image Recognition (Zoph et al. 2017)
+
+    Designing Neural Network Architectures using Reinforcement Learning (Baker et al. 2016)
+
+    Neural Architecture Search with Reinforcement Learning (Zoph and Le. 2016)
+
+ 
+
+   优化器搜索
+
+    Neural Optimizer Search with Reinforcement Learning (Bello et al. 2017)
+
+ 
+
+ 自动添加（AutoAugment）
+
+    Learning Data Augmentation Strategies for Object Detection (Zoph et al. 2019)
+
+    Fast AutoAugment (Lim et al. 2019)
+
+    AutoAugment: Learning Augmentation Policies from Data (Cubuk et al. 2018)
+
+ 
+
+   学会学习/元学习
+
+    Learning to Learn with Gradients (Chelsea Finn PhD disseration 2018)
+
+    On First-Order Meta-Learning Algorithms (OpenAI Reptile by Nichol et al. 2018)
+
+    Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML by Finn et al. 2017)
+
+    A sample neural attentive meta-learner (Mishra et al. 2017)
+
+    Learning to Learn without Gradient Descent by Gradient Descent (Chen et al. 2016)
+
+    Learning to learn by gradient descent by gradient descent (Andrychowicz et al. 2016)
+
+    Learning to reinforcement learn (Wang et al. 2016)
+
+    RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning (Duan et al. 2016)
+
+ 
+
+ 超参数优化
+
+    Google Vizier: A Service for Black-Box Optimization (Golovin et al. 2017)
+
+    Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization (Li et al. 2016)
+
+    Automatic feature selection
+
+    Deep Feature Synthesis: Towards Automating Data Science Endeavors (Kanter et al. 2017)
+
+    ExploreKit: Automatic Feature Generation and Selection (Katz et al. 2016)
+
+ 
+
+模型压缩
+
+    AMC: AutoML for Model Compression and Acceleration on Mobile Devices (He et al. 2018)
+
+ 
+
+工具和开源项目
+
+    ATM: Auto Tune Models: A multi-tenant, multi-data system for automated machine learning (model selection and tuning)
+
+    Adanet: Fast and flexible AutoML with learning guarantees: Tensorflow package for AdaNet
+
+    Microsoft Neural Network Intelligence (NNI): An open source AutoML toolkit for neural architecture search and hyper-parameter tuning
+
+    Dragonfly: An open source python library for scalable Bayesian optimisation
+
+    H2O AutoML: Automatic Machine Learning by H2O.ai
+
+    Kubernetes Katib: hyperparameter Tuning on Kubernetes inspired by Google Vizier
+
+    TransmogrifAI: automated machine learning for structured data by Salesforce
+
+    Advisor: open-source implementation of Google Vizier for hyper parameters tuning
+
+    AutoKeras: AutoML library by Texas A&M University using Bayesian optimization
+
+    AutoSklearn: an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
+
+    Ludwig: a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code
+
+    AutoWeka: hyperparameter search for Weka
+
+    automl-gs: Provide an input CSV and a target field to predict, generate a model + code to run it
+
+    SMAC: Sequential Model-based Algorithm Configuration
+
+    Hyperopt-sklearn: hyper-parameter optimization for sklearn
+
+    Spearmint: a software package to perform Bayesian optimization
+
+    TOPT: one of the very first AutoML methods and open-source software packages
+
+    MOE: a global, black box optimization engine for real world metric optimization by Yelp
+
+    Hyperband: open source code for tuning hyperparams with Hyperband
+
+    Optuna: define-by-run hypterparameter optimization framework
+
+    RoBO: a Robust Bayesian Optimization framework
+
+    HpBandSter: a framework for distributed hyperparameter optimization
+
+    HPOlib2: a library for hyperparameter optimization and black box optimization benchmarks
+
+    Hyperopt: distributed Asynchronous Hyperparameter Optimization in Python
+
+    REMBO: Bayesian optimization in high-dimensions via random embedding
+
+    ExploreKit: a framework forautomated feature generation
+
+    FeatureTools: An open source python framework for automated feature engineering
+
+    PocketFlow: use AutoML to do model compression (open sourced by Tencent)
+
+    DEvol (DeepEvolution): a basic proof of concept for genetic architecture search in Keras
+
+ 
+
+商业产品
+
+    Amazon SageMaker
+
+    Google Cloud AutoML
+
+    Google Cloud ML Hyperparameter Turning
+
+    Microsoft Azure Machine Learning Studio
+
+    comet.ml
+
+    SigOpt
+
+ 
+
+经典Post
+
+    A Conversation With Quoc Le: The AI Expert Behind Google AutoML
+
+    fast.ai: An Opinionated Introduction to AutoML and Neural Architecture Search
+
+    Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees
+
+    Using Evolutionary AutoML to Discover Neural Network Architectures
+
+    Improving Deep Learning Performance with AutoAugment
+
+    AutoML for large scale image classification and object detection
+
+    Using Machine Learning to Discover Neural Network Optimizers
+
+    Using Machine Learning to Explore Neural Network Architecture
+
+ 
+
+公开Presentation
+
+    ICML 2019 Tutorial: Recent Advances in Population-Based Search for Deep Neural Networks by Evolving AI Lab
+
+    Automatic Machine Learning by Frank Hutter and Joaquin Vanschoren
+
+    Advanced Machine Learning Day 3: Neural Architecture Search by Debadeepta Dey (MSR)
+
+    Neural Architecture Search by Quoc Le (Google Brain)
+
+ 
+
+经典书籍
+
+    AUTOML: METHODS, SYSTEMS, CHALLENGES
+
+ 
+
+Competitions, workshops and conferences
+
+    NIPS 2018 3rd AutoML Challenge: AutoML for Lifelong Machine Learning
+
+    AutoML Workshop in ICML
+
+ 
+
+其他资源
+
+    Literature on Neural Architecture Search
+
+    Awesome-AutoML-Papers
+
+ 
+
+落地应用
+
+    AutoML: Automating the design of machine learning models for autonomous driving by Waymo
