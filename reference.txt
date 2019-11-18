@@ -16,3 +16,7 @@ https://github.com/thu-ml/zhusuan
 第四范式组织的autoML期刊-special issue
 http://www.ijarset.com/currentissue.html
 
+autoML比赛冠军的分享和代码
+https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/98806130
+https://github.com/DeepBlueAI/AutoSmart
+
