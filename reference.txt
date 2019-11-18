@@ -13,3 +13,6 @@ https://machinelearningmastery.com/machine-learning-performance-improvement-chea
 Bayesian deep learning upon tensorflow
 https://github.com/thu-ml/zhusuan
 
+第四范式组织的autoML期刊-special issue
+http://www.ijarset.com/currentissue.html
+
