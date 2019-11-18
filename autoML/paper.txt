@@ -45,3 +45,9 @@ https://blog.csdn.net/qq_40597317/article/details/80888837
 通俗易懂的贝叶斯优化
 https://blog.csdn.net/snail_ren/article/details/79005069
 
+autoML涉及到的论文及相关资料
+https://github.com/windmaple/awesome-AutoML
+
+
+
+
