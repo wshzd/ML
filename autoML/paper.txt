@@ -51,6 +51,19 @@ https://github.com/windmaple/awesome-AutoML
 chalearn官网
 http://automl.chalearn.org/
 
+AutoML研究分析
+https://www.jianshu.com/p/b59fe5dd1b93
+
+AutoML如何实现智能推荐系统的自动上线和运维？
+https://www.jianshu.com/p/c9b3380b5f92
+
+
+
+
+
+
+
+
 
 
 
