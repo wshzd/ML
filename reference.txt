@@ -20,3 +20,9 @@ autoML比赛冠军的分享和代码
 https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/98806130
 https://github.com/DeepBlueAI/AutoSmart
 
+《统计学习方法》
+https://github.com/WangRongsheng/Statistical-learning-method-lihang
+
+
+
+
