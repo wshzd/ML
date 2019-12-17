@@ -23,6 +23,6 @@ https://github.com/DeepBlueAI/AutoSmart
 《统计学习方法》
 https://github.com/WangRongsheng/Statistical-learning-method-lihang
 
-
-
+Few-shot Learning(小样本学习)综述
+https://www.chainnews.com/articles/650132977783.htm
 
