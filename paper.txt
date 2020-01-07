@@ -4,3 +4,9 @@ https://www.bilibili.com/video/av59538266
 
 《统计学习方法》的代码实现
 https://github.com/fengdu78/lihang-code
+
+lightGBM论文
+《Lightgbm: A highly efficient gradient boosting decision tree》
+《A communication-efficient parallel algorithm for decision tree》
+
+
