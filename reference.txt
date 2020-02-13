@@ -26,5 +26,5 @@ https://github.com/WangRongsheng/Statistical-learning-method-lihang
 李宏毅机器学习下一步
 https://www.bilibili.com/video/av46561029/?spm_id_from=333.788.videocard.1
 
-
-
+比利时列日大学人工智能和深度学习的副教授Gilles Louppe《深度学习：Deep Learning》硬核课程PPT
+https://github.com/glouppe/info8010-deep-learning#info8010---deep-learning
