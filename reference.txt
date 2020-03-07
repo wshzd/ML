@@ -28,6 +28,7 @@ https://www.bilibili.com/video/av46561029/?spm_id_from=333.788.videocard.1
 李宏毅老师的课程资料
 《终身学习、可解释ML、异常检测、对抗攻击》
 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html
+http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
 
 比利时列日大学人工智能和深度学习的副教授Gilles Louppe《深度学习：Deep Learning》硬核课程PPT
 https://github.com/glouppe/info8010-deep-learning#info8010---deep-learning
