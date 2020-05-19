@@ -22,6 +22,7 @@ https://github.com/DeepBlueAI/AutoSmart
 
 《统计学习方法》
 https://github.com/WangRongsheng/Statistical-learning-method-lihang
+https://github.com/Dod-o/Statistical-Learning-Method_Code
 
 李宏毅机器学习下一步
 https://www.bilibili.com/video/av46561029/?spm_id_from=333.788.videocard.1
@@ -36,9 +37,9 @@ https://github.com/glouppe/info8010-deep-learning#info8010---deep-learning
 中国科学院大学教材课件共享项目
 https://github.com/lilujunai/UCAS-Course
 
-
-
-
+《统计学习方法》第2版
+https://github.com/SmirkCao/Lihang
+https://github.com/hktxt/Learn-Statistical-Learning-Method
 
 
 
