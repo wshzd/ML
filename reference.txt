@@ -45,7 +45,7 @@ https://github.com/WenDesi/lihang_book_algorithm
 https://blog.csdn.net/tudaodiaozhale
 https://github.com/hktxt/Learn-Statistical-Learning-Method
 
-
-
+可解释的机器学习
+https://github.com/MingchaoZhu/InterpretableMLBook
 
 
