@@ -48,4 +48,17 @@ https://github.com/hktxt/Learn-Statistical-Learning-Method
 可解释的机器学习
 https://github.com/MingchaoZhu/InterpretableMLBook
 
+置信学习（可以过滤错误样本）
+cleanlab
+https://github.com/cgnorthcutt/cleanlab
+
+
+
+
+
+
+
+
+
+
 
