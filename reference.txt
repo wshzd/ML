@@ -52,8 +52,8 @@ https://github.com/MingchaoZhu/InterpretableMLBook
 cleanlab
 https://github.com/cgnorthcutt/cleanlab
 
-
-
+斯坦福经典教材《The Element of Statistical Learning》（简称 ESL）被称为频率学派的统计学习「圣经」
+https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning
 
 
 
