@@ -1,0 +1,12 @@
+Hinton团队的杰作：Big Self-Supervised Models are Strong Semi-Supervised Learners
+论文地址：https://arxiv.org/abs/2006.10029
+代码：https://github.com/google-research/simclr
+
+
+
+
+
+
+
+
+
