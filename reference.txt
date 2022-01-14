@@ -60,5 +60,12 @@ https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning
 英文版：https://christophm.github.io/interpretable-ml-book/index.html
 https://github.com/christophM/interpretable-ml-book
 
+《机器学习 公式推导与代码实现》
+https://github.com/luwill/Machine_Learning_Code_Implementation
+
+
+
+
+
 
 
